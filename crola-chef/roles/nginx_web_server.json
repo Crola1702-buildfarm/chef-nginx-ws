@@ -1,0 +1,10 @@
+{
+    "name": "nginx_web_server",
+    "description": "nginx web server",
+    "json_class": "Chef::Role",
+    "default_attributes": {
+    },
+    "override_attributes": {
+    },
+    "chef_type": "role"
+}

@@ -1,0 +1,1 @@
+{ "run_list": ["role[nginx_web_server]", "recipe[nginx_web_server::default]"]}
